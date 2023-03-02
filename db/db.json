@@ -1,0 +1,34 @@
+{
+    "login":[
+        {
+            "name": "samreen",
+            "password": "123"
+        },
+        {
+            "name": "Irfan",
+            "password": "123"
+        },
+        {
+            "name": "Aaira",
+            "password": "123"
+        }
+    ],
+    "sites":[
+        {
+            "name": "Manikonda"
+        },
+        {
+            "name": "Hi-tech City"
+        },
+        {
+            "name": "LB Nagar"
+        },
+        {
+            "name": "kurnool"
+        },
+        {
+            "name": "Banglore"
+        }
+    ]
+
+}

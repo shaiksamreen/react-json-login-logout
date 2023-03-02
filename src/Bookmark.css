@@ -1,0 +1,44 @@
+.bookmark-items{
+    background: cadetblue;
+    width: 300px;
+    height: 20px;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.bookmark-app{
+    background: antiquewhite;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+.del-button{
+    background: chocolate;
+    border: none;
+    border-radius: 22px;
+    color: white;
+}
+
+.add-button{
+    height: 20px;
+    background: chocolate;
+    border: none;
+    width: 50px;
+    border-radius: 22px;
+    color: white;
+}
+.add-button:hover{
+    cursor: pointer;
+    color: black;
+}
+.del-button:hover{
+    cursor: pointer;
+    color: black;
+}
